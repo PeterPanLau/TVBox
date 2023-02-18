@@ -1,0 +1,5 @@
+ { "storeHouse": [ 
+{ "sourceName": "影视", "sourceUrl": "clan://localhost/tvbox/stores/store1.txt" }, 
+{ "sourceName": "小姐姐", "sourceUrl": "clan://localhost/tvbox/stores/store2.txt" }, 
+{"sourceName": "电视直播","sourceUrl":"clan://localhost/tvbox/stores/store3.txt"}
+] }
