@@ -1,10 +1,6 @@
 {
   "urls": [
     {
-      "url": "clan://localhost/tvbox/lines/line3.json",
-      "name": "📡电视直播"
-    },
-    {
       "url": "http://肥猫.love",
       "name": "肥猫"
     },
