@@ -5,6 +5,10 @@
       "name": "肥猫"
     },
      {
+      "url": "http://52bsj.vip:98/wuai",
+      "name": "吾爱"
+    },
+     {
       "url": "http://9xi4o.tk/0725.json",
       "name": "4k云盘"
     },
