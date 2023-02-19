@@ -1,3 +1,4 @@
  { "storeHouse": [
-{"sourceName": "线上源","sourceUrl":"https://jihulab.com/thomaslau517/tvbox/-/raw/main/store3.txt"}
+{"sourceName": "线上源","sourceUrl":"https://jihulab.com/thomaslau517/tvbox/-/raw/main/store3.txt"},
+{"sourceName": "吾爱","sourceUrl":"http://52bsj.vip:98/wuaihouse"}
 ] }
