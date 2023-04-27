@@ -41,6 +41,10 @@
       "name": "FongMi"
     },
     {
+      "url": "http://home.jundie.top:81/top98.json",
+      "name": "俊哥"
+    },
+    {
       "url": "https://ghproxy.com/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json",
       "name": "月明"
     },
