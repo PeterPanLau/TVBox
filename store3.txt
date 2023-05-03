@@ -5,8 +5,8 @@
       "name": "肥猫"
     },
     {
-      "url": "https://jihulab.com/thomaslau517/tvbox/-/raw/main/接口.txt",
-      "name": "本地"
+       "url": "https://jihulab.com/thomaslau517/tvbox/-/raw/main/line1.json",
+       "name": "星河科技园"
     },
      {
       "url": "http://52bsj.vip:98/wuai",
