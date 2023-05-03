@@ -4,10 +4,6 @@
       "url": "http://我不是.肥猫.love:63/接口禁止贩卖",
       "name": "肥猫"
     },
-    {
-       "url": "https://jihulab.com/thomaslau517/tvbox/-/raw/main/line1.json",
-       "name": "星河科技园"
-    },
      {
       "url": "http://52bsj.vip:98/wuai",
       "name": "吾爱"
