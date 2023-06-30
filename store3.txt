@@ -13,6 +13,22 @@
       "name": "巧技"
     },
     {
+      "url": "http://饭太硬.top/tv",
+      "name": "饭太硬"
+    },
+    {
+      "url": "http://xhww.fun:63/小米/DEMO.json",
+      "name": "小米"
+    },
+    {
+      "url": "https://xhdwc.tk/0",
+      "name": "香雅"
+    },
+    {
+      "url": "https://weixine.net/ysc.json",
+      "name": "运输车"
+    },
+    {
        "url": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
        "name": "高天流云js"
     },
@@ -23,14 +39,6 @@
      {
       "url": "http://9xi4o.tk/0725.json",
       "name": "4k云盘"
-    },
-    {
-      "url": "http://饭太硬.top/tv",
-      "name": "饭太硬"
-    },
-    {
-      "url": "http://xhww.fun:63/小米/DEMO.json",
-      "name": "小米"
     },
     {
       "url": "http://drpy.site/js1",
@@ -55,14 +63,6 @@
     {
       "url": "https://framagit.org/lzk23559/TVRule/-/raw/main/XYQTVBox.json",
       "name": "香雅倩"
-    },
-    {
-      "url": "https://xhdwc.tk/0",
-      "name": "香雅"
-    },
-    {
-      "url": "https://weixine.net/ysc.json",
-      "name": "运输车"
     },
     {
       "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
