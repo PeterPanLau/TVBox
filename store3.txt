@@ -69,6 +69,22 @@
       "name": "南风"
     },
     {
+      "url": "https://100km.top/0",
+      "name": "纯一"
+    },
+    {
+      "url": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/0825.json",
+      "name": "PG one"
+    },
+    {
+      "url": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/0827.json",
+      "name": "FongMI"
+    },
+    {
+      "url": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/0828.json",
+      "name": "唐三"
+    },
+    {
       "url": "https://yydsys.top/duo",
       "name": "多多"
     }
