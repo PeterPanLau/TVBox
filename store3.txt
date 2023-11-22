@@ -84,6 +84,11 @@
       "url": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/0828.json",
       "name": "唐三"
     },
+     {
+      "url": "https://github.com/PeterPanLau/TVBox/blob/afb65d18519dbdda430c0750f6910db2af5d4ff7/tvbox.json",
+      "name": "自用"
+    },
+
     {
       "url": "https://yydsys.top/duo",
       "name": "多多"
