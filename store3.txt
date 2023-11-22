@@ -85,7 +85,7 @@
       "name": "唐三"
     },
      {
-      "url": "https://github.com/PeterPanLau/TVBox/blob/afb65d18519dbdda430c0750f6910db2af5d4ff7/tvbox.json",
+      "url": "https://github.com/PeterPanLau/TVBox/main/tvbox.json",
       "name": "自用"
     },
 
